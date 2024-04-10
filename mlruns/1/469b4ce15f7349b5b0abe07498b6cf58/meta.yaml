@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/469b4ce15f7349b5b0abe07498b6cf58/artifacts
+end_time: 1712665345193
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 469b4ce15f7349b5b0abe07498b6cf58
+run_uuid: 469b4ce15f7349b5b0abe07498b6cf58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712665342238
+status: 3
+tags: []
+user_id: hemasree
